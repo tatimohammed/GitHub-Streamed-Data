@@ -1,0 +1,43 @@
+<div class="row container m-auto text-center mt-1" style="color: white;">
+    <div class="text-center mt-5" id="check">
+        <p>Last Check point <i class="bi bi-check-circle-fill"></i> 21-06-23 - 20:06</p>
+    </div>
+</div>
+<div id="dashboard" class="container m-auto mt-5">
+    <div class="row">
+        <div class="col-6 mt-1 mb-1">
+            <div class="row">
+                <div class="col-5 text-center" id="border">
+                    <p class="mt-2"><b>Total number of<br> repositories</b></p>
+                    <p>{{data.repos}}</p>
+                </div>
+                <div class="col-2"></div>
+                <div class="col-5 text-center" id="border">
+                    <p class="mt-2"><b>Total number of<br> languages</b></p>
+                    <p>{{data.nums}}</p>
+                </div>
+            </div>
+            <div class="row">
+                <p></p>
+                <p></p>
+                <p></p>
+            </div>
+            <div class="row text-center months" id="border">
+                <p class="mt-3"><b>Number of Repositories created over 2023</b></p>
+                <canvas #barChart></canvas>
+
+            </div>
+        </div>
+        <div class="col-1"></div>
+        <div class="col-5" id="border">
+            <div class="row text-center">
+                <p class="mt-3"><b>Number of Repositories created over languages</b></p>
+            </div>
+            <div class="row" id="langs">
+                <canvas #barChart2></canvas>
+            </div>
+            
+        </div>
+    </div>
+
+</div>

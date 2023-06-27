@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: rgb(23, 2, 53);
+    text-align: center;
+    padding: 1%;
+}
+hr{
+    border-color: rgb(23, 2, 53);
+}
+footer{
+    position: fixed;
+    width: 100%;
+    text-align: center;
+    color: rgb(23, 2, 53);
+    letter-spacing: 2px;
+    bottom: 0;
+}
+footer p{
+    padding-top: 0.5%;
+    padding-bottom: 0.5%;
+}
