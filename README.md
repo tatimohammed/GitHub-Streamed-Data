@@ -99,7 +99,7 @@ This project aims to provide valuable insights into GitHub repositories by analy
 ## Suggestions
 - In addition to the existing goals, we can enhance the project by incorporating `Natural Language Processing (NLP)` tasks to classify repositories based on their names and programming languages. This addition will enable us to gain insights into the dominant themes within the GitHub ecosystem, such as `NLP`, `Image Recognition`, or `General Software Development` ....  
 
-## Contact Me if you nned anything :)
+## Contact Me if you need anything :)
 - Email: `mohammed.tati21@gmail.com`
 - Phone: `+212682633363`
 - LinkedIn: <a href="https://www.linkedin.com/in/mohammed-tati-2b3665222/">
