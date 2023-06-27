@@ -1,5 +1,6 @@
 # GitHub Streamed Data
 ![Screenshot from 2023-06-27 01-32-18](https://github.com/tati2002med/GitHub-Streamed-Data/assets/95311883/8e41fb96-a4dc-402d-aa78-3b2eae23adbb)
+- The `Dashboard` will automatically fetch new data each 30s.
 ## Data Pipeline
 ![Spring Boot API](https://github.com/tati2002med/GitHub-Streamed-Data/assets/95311883/9d3c29ab-5aed-4a3a-b3a2-488d99e3acca)
 ## Project Description
