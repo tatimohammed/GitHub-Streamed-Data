@@ -19,7 +19,7 @@ public class GitHubEventsAPIClient {
         String start_date = "2023-01-01";
         String end_date = "2023-06-01";
 
-        String accessToken = "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";
+        String accessToken = "ACCESS_Token";
 
 
         try {
